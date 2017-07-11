@@ -4,7 +4,7 @@ This is a private repository to publish materials to make classes on our iLect s
 #### Class 1: Connectome and AGI
 #### Class 2: Machine Learning 
 #### Class 3: Linear Regression
-#### Class 4: Scikit Learning
+#### Class 4: Scikit Learn
 #### Class 5: Gradient Methond & Back Propagation
 #### Class 6: Chainer
 #### Class 7: Covolutional Neural Networks 1
