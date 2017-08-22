@@ -67,6 +67,7 @@
 ### フィードバック・次回予告 (5分)
 
 ## 参考文献
+* 詳解ディープラーニング 巣籠 悠輔
 * (Elman, 1990) Finding Structure in Time
 http://machine-learning.martinsewell.com/ann/Elma90.pdf
 
