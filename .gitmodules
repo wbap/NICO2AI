@@ -1,0 +1,3 @@
+[submodule "lecture8/visualize-VGG/chainer-visualization"]
+	path = lecture8/visualize-VGG/chainer-visualization
+	url = git@github.com:hvy/chainer-visualization.git
