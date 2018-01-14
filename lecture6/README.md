@@ -18,31 +18,28 @@
 * Chainerとは
 * "Define-and-Run"と"Define-by-Run"
 * Chainerの特長と他フレームワークとの比較
-* 計算グラフの記述
-* (GPUへの対応)
 
 ##### 基礎演習 (40分)
-* Variable
-* 自動微分
+* 計算グラフの記述
 * Link
 * Chain
 * L.Linear, F.relu, F.softmax\_cross\_entropy
 * 多層パーセプトロンのChainerによる記述
 * Optimizer
-* (Trainerを用いない)ニューラルネットの学習
+* Variable
+* Trainerを用いないニューラルネットの学習
+* Trainer/Updater
+* datasets/iterators
+* Extension(Evaluator, LogReport, PrintReport, ProgressBar, snapshot)
+* Trainerを用いたニューラルネットの学習
+* GPU対応コードの実装
 * モデルの保存と読み込み (Serializer)
-* (Trainer/Updater)
-* (datasets/iterators)
-* (Extension(Evaluator, LogReport, PrintReport, ProgressBar, snapshot))
-* (Trainerを用いた)ニューラルネットの学習
-* (GPU対応コードの実装)
 * 課題:Chainerを用いたロジスティック回帰の実装
 
 #### Part 2. ニューラルネットの学習テクニック (15分)
 * NNの最適化手法(Momentum法(MomentumSGD)/AdaGrad/Adam)
 * NNの正則化手法(Dropout)
-* 勾配消失問題
-* Heの初期化
+* 勾配消失問題とHeの初期化
 * Batch Normalization
 
 #### Part 3. 他手法との比較 (20分)
@@ -66,3 +63,4 @@
 #### 解説・コードレビュー (15分)
 
 ## 参考文献 (講師の方も随時追加お願いします)
+* 岡谷貴之『機械学習プロフェッショナルシリーズ 深層学習』(講談社、2015)
